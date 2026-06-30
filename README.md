@@ -69,3 +69,7 @@ The application allows users to:
 ## 👨‍💻 Author
 
 Rakesh Dadoda
+
+## Application Screenshot
+
+![Delivery Time Prediction App](screenshots/app.png)
