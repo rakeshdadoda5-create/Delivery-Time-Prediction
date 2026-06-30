@@ -1,0 +1,2 @@
+screenshots
+    └── app.png
